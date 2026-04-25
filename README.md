@@ -19,7 +19,7 @@ I'm Daniel. Database architect, AI builder, founder.
 
 18+ years shipping mission-critical systems for banks, telcos, and governments — UBS, Credit Suisse, SIX, Citco, Allianz, Lufthansa.
 
-Founder of **[Dimensigon](https://dimensigon.com)** (since 2012, 55+ engineers).
+Founder of **[Dimensigon](https://dimensigon.com)**.
 Currently CTO at **GPC International**.
 Building **[HeliosDB](https://heliosdb.com)** — one engine, many data planes.
 
