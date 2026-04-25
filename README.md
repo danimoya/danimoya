@@ -247,9 +247,50 @@ All running on Docker + Nginx Proxy Manager + my own observability stack. **Sing
 
 ## 🎓 Certifications
 
-**[Oracle Certified Master](https://education.oracle.com/oracle-database-administrator-certified-master/trackp_OCM11G)** (2014) — *Held by <1% of Oracle pros.*
+**[Oracle Database 11g Administrator Certified Master (OCM)](https://education.oracle.com/oracle-database-administrator-certified-master/trackp_OCM11G)** — *2014. Held by <1% of Oracle pros. Two-day, hands-on, in-person exam.*
 
-OCI Architect Associate · OCI Data Science Professional · **Oracle AI Vector Search Professional** (2025) · Azure AZ-900 · GCP Professional Python Developer · LeanXcale Admin & Developer
+[![Credly](https://img.shields.io/badge/View_all_badges-Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/daniel-moya/badges)
+
+<details>
+<summary><b>20 certifications — Oracle · Microsoft · Google Cloud · IBM · LeanXcale · Exasol</b></summary>
+
+<br />
+
+**2025**
+- [Oracle AI Vector Search Certified Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CC7F132D7D9276AE658C79C95075E8D98C309A9A1FB84ED8A5B04851EAEDB119)
+- [OCI 2025 Certified Architect Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E32D4DE31FCD7E91FCE56E4ED2542AB7D2B6B88CB0B535D4559C106F0B20B32F)
+- [OCI 2025 Certified Multicloud Architect Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0956786241B77AC496D637C068A45FB3A87FE27D52791502FF4771C1A656762F)
+- [OCI 2025 Certified Data Science Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DC0C1A82DC2EE6738291164772053756386E59EF31F4D90D67ABAF64879C0D9F)
+- [OCI 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=826717FC10800CE0941C088D4D8FD55378CDE217E35D2CD23B5CBB5947086D0A)
+- [OCI 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=F2AA8DF7C1E0FE315882E70A6C000DF1FF71CDDF67B5F9EC95C711471004B8CC)
+- [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=DC0C1A82DC2EE67382911647720537568ADADFBF14059C6A74FDBD7CC455871E)
+- [Foundations of LeanXcale Development](https://leanxcale.com/foundations-of-leanxcale-development-21521)
+
+**2024**
+- [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+- [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/4MSKK69VWOBW) — *Google via Coursera*
+- [Foundations of LeanXcale Administration](https://leanxcale.com/foundations-of-leanxcale-administration-29187)
+
+**2018**
+- Exasol Certified Database Developer
+
+**2015**
+- Oracle Database 11g Security Certified Implementation Specialist
+- Oracle Exadata Database Machine 2014 Certified Implementation Specialist
+
+**2014**
+- ⭐ Oracle Database 11g Administrator Certified Master (OCM) — *see hero above*
+- Oracle Database 12c Administrator Certified Professional (OCP)
+
+**2012**
+- Oracle Certified Expert — RAC 11g & Grid Infrastructure Administrator
+- Oracle Exadata 11g Certified Implementation Specialist
+
+**2011**
+- Oracle Database 11g Administrator Certified Professional (OCP)
+- IBM Netezza Technical Professional v1
+
+</details>
 
 ---
 
