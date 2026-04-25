@@ -158,12 +158,12 @@ Multi-tenant RAG platform. PDF/DOCX/TXT/HTML ingestion, hybrid retrieval + reran
 </td>
 <td width="50%" valign="top">
 
-### 🎙️ VoicEdit
-Voice-first document editor. BYOK pricing — bring your own LLM key, pay only for what you use.
+### 💬 Zeddit
+Voice + AI collaborative editor. Talk, draft, and refine documents together in real time.
 
-`Next.js` `WebRTC` `Whisper` `Claude/GPT`
+`Next.js` `WebRTC` `Yjs` `Claude/GPT`
 
-[🌐 voicedit.danielmoya.cv](https://voicedit.danielmoya.cv)
+[🌐 zeddit.foor.tech](https://zeddit.foor.tech)
 
 </td>
 </tr>
@@ -182,14 +182,12 @@ Background-capable wrapper for Claude Code. Async workflows, session management,
 </td>
 <td width="50%" valign="top">
 
-<img src="https://danielmoya.cv/assets/projects/AIVim-Squared.png" height="40" align="left" />
+### 📰 WAIPress
+WordPress reimagined with AI & HeliosDB. **Three runtimes** — Nano (lightweight), Full (enterprise), JS (Next.js) — plus a unified marketing front.
 
-### AIVim
-AI-enhanced Vim editor. Multi-LLM support — Claude, OpenAI, local models. Published on PyPI.
+`PHP` `Next.js` `HeliosDB` `AI plugins`
 
-`Python` `Vim` `Multi-LLM`
-
-[💻 GitHub](https://github.com/danimoya/AIVim-Editor) · [📦 PyPI](https://pypi.org/project/aivim/)
+[🌐 waipress.foor.tech](https://waipress.foor.tech) · [Nano](https://waipress-nano.foor.tech) · [Full](https://waipress-full.foor.tech) · [JS](https://waipress-js.foor.tech)
 
 </td>
 </tr>
@@ -200,22 +198,38 @@ AI-enhanced Vim editor. Multi-LLM support — Claude, OpenAI, local models. Publ
 ## 🌐 The foor.network
 
 <details>
-<summary><b>What one operator can ship — 8 live services on infra I built and run myself.</b></summary>
+<summary><b>What one operator can ship — 17 live domains, all on infra I built and run myself.</b></summary>
 
 <br />
 
-| Service | What it is |
-|---|---|
-| [aiye.foor.tech](https://aiye.foor.tech) | AI/ML observability platform |
-| [bigvoice.foor.tech](https://bigvoice.foor.tech) | Broadcast communication |
-| [cursly.foor.tech](https://cursly.foor.tech) | URL shortening + analytics |
-| [easyrag.foor.tech](https://easyrag.foor.tech) | Multi-tenant RAG SaaS |
-| [gdriveorg.foor.tech](https://gdriveorg.foor.tech) | Claude-powered Drive organizer |
-| [livewiki.foor.tech](https://livewiki.foor.tech) | AI-powered live wiki |
-| [markon.foor.tech](https://markon.foor.tech) | Markdown + AI editor |
-| [zeddit.foor.tech](https://zeddit.foor.tech) | Discussion forum |
+**Standalone products** (foor.tech subdomain)
 
-All running on Docker + Nginx Proxy Manager + my own observability stack. Single operator.
+| Product | One-liner |
+|---|---|
+| [aiye.foor.tech](https://aiye.foor.tech) | Observability + telemetry collection backed by HeliosDB vector store |
+| [bigvoice.foor.tech](https://bigvoice.foor.tech) | One-way broadcast platform — presenter to audience, with AI summaries |
+| [cursly.foor.tech](https://cursly.foor.tech) | AI-powered URL shortener with custom analytics and link management |
+| [easyrag.foor.tech](https://easyrag.foor.tech) | Multi-tenant RAG SaaS — sub-2s queries on HeliosDB Nano |
+| [gdriveorg.foor.tech](https://gdriveorg.foor.tech) | Claude-powered Google Drive organizer — auto-categorizes your files |
+| [livewiki.foor.tech](https://livewiki.foor.tech) | AI-powered live wiki — modern MediaWiki replacement with auto-organize + RAG |
+| [markon.foor.tech](https://markon.foor.tech) | AI sales-development agent — finds leads, writes emails, books demos |
+| [waipress.foor.tech](https://waipress.foor.tech) | WordPress reimagined with AI & HeliosDB — Nano / Full / JS runtimes |
+| [zeddit.foor.tech](https://zeddit.foor.tech) | Voice + AI collaborative editor — talk, draft, refine in real time |
+
+**Brand TLDs** (the foor.* family)
+
+| Domain | Focus |
+|---|---|
+| [foor.network](https://foor.network) | The hub — index of every foor.* property |
+| [foor.tech](https://foor.tech) | Engineering & product blog |
+| [foor.blog](https://foor.blog) | Long-form writing |
+| [foor.work](https://foor.work) | Hiring & careers |
+| [foor.email](https://foor.email) | Custom-domain email service ([webmail](https://mail.foor.email)) |
+| [foor.dating](https://foor.dating) | Dating product |
+| [foor.world](https://foor.world) | Global network presence |
+| [foor.you](https://foor.you) | Personal-profile front |
+
+All running on Docker + Nginx Proxy Manager + my own observability stack. **Single operator.**
 
 </details>
 
