@@ -4,9 +4,9 @@
 
 ### I build AI-accelerated full-stack products. Fast. In production.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-danielmoya.cv-FACC15?style=for-the-badge&logo=safari&logoColor=white)](https://danielmoya.cv)
+[![Portfolio](https://img.shields.io/badge/Portfolio-danimoya.com-FACC15?style=for-the-badge&logo=safari&logoColor=white)](https://danimoya.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-damoya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damoya/)
-[![Email](https://img.shields.io/badge/Email-me%40danielmoya.cv-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:me@danielmoya.cv)
+[![Email](https://img.shields.io/badge/Email-me%40danimoya.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:me@danimoya.com)
 [![HeliosDB](https://img.shields.io/badge/HeliosDB-heliosdb.com-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)](https://heliosdb.com)
 
 </div>
@@ -42,7 +42,7 @@ Next.js + NestJS + Postgres + Claude/OpenAI.
 Multi-tenant. Observable. Production-ready.
 Typical build: **2–6 weeks**.
 
-→ [me@danielmoya.cv](mailto:me@danielmoya.cv?subject=AI%20App%20Build)
+→ [me@danimoya.com](mailto:me@danimoya.com?subject=AI%20App%20Build)
 
 </td>
 <td width="33%" valign="top">
@@ -52,7 +52,7 @@ Oracle → PostgreSQL / cloud.
 **2,600+ migrations. 1+ PB moved.**
 Zero-downtime cutovers, regulated environments.
 
-→ [me@danielmoya.cv](mailto:me@danielmoya.cv?subject=DB%20Migration)
+→ [me@danimoya.com](mailto:me@danimoya.com?subject=DB%20Migration)
 
 </td>
 <td width="33%" valign="top">
@@ -62,7 +62,7 @@ RAG pipelines. Vector search. Agent orchestration.
 HeliosDB-backed or BYO stack.
 Multi-tenant from day one.
 
-→ [me@danielmoya.cv](mailto:me@danielmoya.cv?subject=AI%20Infra)
+→ [me@danimoya.com](mailto:me@danimoya.com?subject=AI%20Infra)
 
 </td>
 </tr>
@@ -124,7 +124,7 @@ Multi-tenant from day one.
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://danielmoya.cv/assets/projects/HeliosDB-logo.png" height="40" align="left" />
+<img src="https://danimoya.com/assets/projects/HeliosDB-logo.png" height="40" align="left" />
 
 ### HeliosDB
 One engine, many data planes. PostgreSQL + MySQL + MongoDB + Redis wire-compat. AI-autonomous ops, scale-to-zero, encrypted-by-default.
@@ -141,7 +141,7 @@ AI-powered Swiss tax automation. 4 apps, 10 microservices, **6 specialized Claud
 
 `NestJS` `Next.js` `Postgres` `Temporal` `Qdrant` `Claude`
 
-[🌐 autotax.danielmoya.cv](https://autotax.danielmoya.cv/login)
+[🌐 autotax.danimoya.com](https://autotax.danimoya.com/login)
 
 </td>
 </tr>
@@ -170,7 +170,7 @@ Voice + AI collaborative editor. Talk, draft, and refine documents together in r
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://danielmoya.cv/assets/projects/Claude-B.png" height="40" align="left" />
+<img src="https://danimoya.com/assets/projects/Claude-B.png" height="40" align="left" />
 
 ### Claude-B
 Background-capable wrapper for Claude Code. Async workflows, session management, foreground attach (Unix `fg`), REST + WebSocket, Docker.
@@ -298,8 +298,8 @@ All running on Docker + Nginx Proxy Manager + my own observability stack. **Sing
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/me%40danielmoya.cv-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:me@danielmoya.cv)
-[![Portfolio](https://img.shields.io/badge/danielmoya.cv-FACC15?style=for-the-badge&logo=safari&logoColor=white)](https://danielmoya.cv)
+[![Email](https://img.shields.io/badge/me%40danimoya.com-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:me@danimoya.com)
+[![Portfolio](https://img.shields.io/badge/danimoya.com-FACC15?style=for-the-badge&logo=safari&logoColor=white)](https://danimoya.com)
 [![LinkedIn](https://img.shields.io/badge/in%2Fdamoya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damoya/)
 [![HeliosDB](https://img.shields.io/badge/heliosdb.com-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)](https://heliosdb.com)
 
