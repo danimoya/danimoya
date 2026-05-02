@@ -118,44 +118,95 @@ Multi-tenant from day one.
 
 ---
 
-## 🔥 Featured Products
+## ⚡ The HeliosDB Ecosystem
+
+<div align="center">
+
+<img src="https://danimoya.com/assets/projects/HeliosDB-logo.png" height="48" />
+
+***One engine. Many surfaces.*** Core DB, embedded runtime, wire-level proxy, MCP code-KB, managed Cloud, and BaaS — all on the same engine.
+
+[![Site](https://img.shields.io/badge/heliosdb.com-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)](https://heliosdb.com)
+[![Cloud](https://img.shields.io/badge/Cloud-cloud.heliosdb.com-7C3AED?style=for-the-badge&logo=icloud&logoColor=white)](https://cloud.heliosdb.com)
+[![BaaS](https://img.shields.io/badge/BaaS-Free_tier-22C55E?style=for-the-badge&logo=supabase&logoColor=white)](https://heliosdb.com/baas.html)
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ HeliosDB-Nano
-Embedded database, single 47 MB binary. Native PostgreSQL + MySQL wire compat, one-shot SQLite import. HNSW vector search, git-like branching, time-travel, AES-256-GCM at rest. Built-in BaaS (Auth, REST, Realtime).
-
-`Rust` `Embedded` `Multi-protocol` `Vectors`
-
-[💻 GitHub](https://github.com/Dimensigon/HDB-HeliosDB-Nano)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ HeliosProxy
-PostgreSQL-wire connection router, query processor, and failover manager. Sits between app and DB cluster: pooling, intelligent routing, auto-failover, L1/L2 caching, rate limit, circuit breakers — zero app changes.
-
-`Rust` `PostgreSQL wire` `Routing` `HA`
-
-[💻 GitHub](https://github.com/dimensigon/HDB-HeliosDB-Proxy)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<img src="https://danimoya.com/assets/projects/HeliosDB-logo.png" height="40" align="left" />
-
-### HeliosDB
-One engine, many data planes. PostgreSQL + MySQL + MongoDB + Redis wire-compat. AI-autonomous ops, scale-to-zero, encrypted-by-default.
+### 🌟 HeliosDB
+Flagship multi-model engine. PostgreSQL + MySQL + MongoDB + Redis wire-compat on a single core. AI-autonomous ops, scale-to-zero, encrypted-by-default.
 
 `Rust` `Raft` `LSM-tree` `Arrow` `Multi-protocol`
 
 [🌐 heliosdb.com](https://heliosdb.com)
 
 </td>
+<td width="50%" valign="top">
+
+### 📦 HeliosDB-Nano
+Embedded runtime, single 47 MB binary. Native PostgreSQL + MySQL wire compat, one-shot SQLite import. HNSW vector search, git-like branching, time-travel queries, AES-256-GCM at rest, built-in BaaS layer.
+
+`Rust` `Embedded` `Vectors` `BaaS`
+
+[💻 GitHub](https://github.com/Dimensigon/HDB-HeliosDB-Nano)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ HeliosProxy
+PostgreSQL-wire connection router, query processor, and failover manager. Pooling, intelligent routing, auto-failover, L1/L2 cache, rate-limit, circuit breakers — sits in front of any PG-wire backend, zero app changes.
+
+`Rust` `PG wire` `HA` `Routing`
+
+[💻 GitHub](https://github.com/dimensigon/HDB-HeliosDB-Proxy)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 heliosdb-codekb-mcp
+MCP stdio server for **code + docs knowledge bases**. Embeds HeliosDB-Nano as a Rust library and exposes LSP-shaped + GraphRAG tools (`helios_lsp_*`, `helios_graphrag_search`, `helios_ast_diff`) to Claude Code, Cursor, Codex, Aider — local JSON-RPC, no ports, no auth dance.
+
+`Rust` `MCP` `GraphRAG` `tree-sitter`
+
+[💻 GitHub](https://github.com/dimensigon/heliosdb-codekb-mcp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ HeliosDB Cloud
+Multi-tenant managed service. REST + PostgreSQL wire over HeliosDB-Nano backends. JWT auth, RBAC, AES-256-GCM / ChaCha20 / XChaCha20 encryption, Argon2 hashing, rustls TLS. Production since v3.5.
+
+`Axum` `Tokio` `Multi-tenant` `JWT`
+
+[🌐 cloud.heliosdb.com](https://cloud.heliosdb.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 HeliosDB BaaS
+Backend-as-a-Service tier on top of Cloud. **Instant DB provisioning** + per-DB API keys, branching, time-travel, hybrid vector + BM25 search, graph traversal, MCP tool discovery. Free tier (3–7 DBs), no credit card.
+
+`REST` `OpenAPI` `Vectors` `MCP`
+
+[🌐 BaaS overview](https://heliosdb.com/baas.html)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 Featured Products
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### 💼 AutoTax
@@ -166,8 +217,6 @@ AI-powered Swiss tax automation. 4 apps, 10 microservices, **6 specialized Claud
 [🌐 autotax.danimoya.com](https://autotax.danimoya.com/login)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 EasyRAG
@@ -178,6 +227,8 @@ Multi-tenant RAG platform. PDF/DOCX/TXT/HTML ingestion, hybrid retrieval + reran
 [🌐 easyrag.foor.tech](https://easyrag.foor.tech)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💬 Zeddit
@@ -188,8 +239,6 @@ Voice + AI collaborative editor. Talk, draft, and refine documents together in r
 [🌐 zeddit.foor.tech](https://zeddit.foor.tech)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📰 WAIPress
@@ -200,8 +249,34 @@ WordPress reimagined with AI & HeliosDB. **Three runtimes** — Nano (lightweigh
 [🌐 waipress.foor.tech](https://waipress.foor.tech) · [Nano](https://waipress-nano.foor.tech) · [Full](https://waipress-full.foor.tech) · [JS](https://waipress-js.foor.tech)
 
 </td>
+</tr>
+</table>
+
+---
+
+## 🕒 Time Tracking & Project Management
+
+<table>
+<tr>
 <td width="50%" valign="top">
-&nbsp;
+
+### ⏱️ TimeTracker Mobile
+A daily chronicle of hours. Chronograph-style timer with live notes, quick-break tiles (Coffee · Lunch · Commute · Call · …) that cut-and-switch in one tap, per-user ledger grouped by client → project, calendar view, multi-member workspaces. Editorial "Almanac" aesthetic.
+
+`React` `Vite` `TypeScript` `Express` `Postgres`
+
+[🌐 ttm.danimoya.com](https://ttm.danimoya.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ Kanttban
+A drafting studio for projects. **Kanban backlog meets Gantt timeline**, rendered with hairline rules and serif type instead of the usual SaaS chrome.
+
+`React` `TypeScript` `Vite` `Express` `Drizzle` `Postgres`
+
+[🌐 kanttban.danimoya.com](https://kanttban.danimoya.com/)
+
 </td>
 </tr>
 </table>
