@@ -124,6 +124,28 @@ Multi-tenant from day one.
 <tr>
 <td width="50%" valign="top">
 
+### ⚡ HeliosDB-Nano
+Embedded database, single 47 MB binary. Native PostgreSQL + MySQL wire compat, one-shot SQLite import. HNSW vector search, git-like branching, time-travel, AES-256-GCM at rest. Built-in BaaS (Auth, REST, Realtime).
+
+`Rust` `Embedded` `Multi-protocol` `Vectors`
+
+[💻 GitHub](https://github.com/Dimensigon/HDB-HeliosDB-Nano)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ HeliosProxy
+PostgreSQL-wire connection router, query processor, and failover manager. Sits between app and DB cluster: pooling, intelligent routing, auto-failover, L1/L2 caching, rate limit, circuit breakers — zero app changes.
+
+`Rust` `PostgreSQL wire` `Routing` `HA`
+
+[💻 GitHub](https://github.com/dimensigon/HDB-HeliosDB-Proxy)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <img src="https://danimoya.com/assets/projects/HeliosDB-logo.png" height="40" align="left" />
 
 ### HeliosDB
@@ -170,6 +192,28 @@ Voice + AI collaborative editor. Talk, draft, and refine documents together in r
 <tr>
 <td width="50%" valign="top">
 
+### 📰 WAIPress
+WordPress reimagined with AI & HeliosDB. **Three runtimes** — Nano (lightweight), Full (enterprise), JS (Next.js) — plus a unified marketing front.
+
+`PHP` `Next.js` `HeliosDB` `AI plugins`
+
+[🌐 waipress.foor.tech](https://waipress.foor.tech) · [Nano](https://waipress-nano.foor.tech) · [Full](https://waipress-full.foor.tech) · [JS](https://waipress-js.foor.tech)
+
+</td>
+<td width="50%" valign="top">
+&nbsp;
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 Claude Tooling
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 <img src="https://danimoya.com/assets/projects/Claude-B.png" height="40" align="left" />
 
 ### Claude-B
@@ -182,12 +226,12 @@ Background-capable wrapper for Claude Code. Async workflows, session management,
 </td>
 <td width="50%" valign="top">
 
-### 📰 WAIPress
-WordPress reimagined with AI & HeliosDB. **Three runtimes** — Nano (lightweight), Full (enterprise), JS (Next.js) — plus a unified marketing front.
+### 📊 Claude-Dashboard
+Web GUI for Claude Code, Claude-B, and any tmux-attached CLI. Live tmux pane streaming, Claude-B inbox/transcripts, project workspaces with file browser + Monaco, 2FA-gated settings, single encrypted HeliosDB-Nano data tier.
 
-`PHP` `Next.js` `HeliosDB` `AI plugins`
+`Next.js` `tmux` `WebSocket` `2FA`
 
-[🌐 waipress.foor.tech](https://waipress.foor.tech) · [Nano](https://waipress-nano.foor.tech) · [Full](https://waipress-full.foor.tech) · [JS](https://waipress-js.foor.tech)
+[💻 GitHub](https://github.com/danimoya/Claude-Dashboard)
 
 </td>
 </tr>
