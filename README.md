@@ -219,28 +219,6 @@ AI-powered Swiss tax automation. 4 apps, 10 microservices, **6 specialized Claud
 </td>
 <td width="50%" valign="top">
 
-### 📚 EasyRAG
-Multi-tenant RAG platform. PDF/DOCX/TXT/HTML ingestion, hybrid retrieval + reranking, **sub-2s queries** on HeliosDB Nano.
-
-`FastAPI` `React` `HeliosDB` `Hybrid retrieval`
-
-[🌐 easyrag.foor.tech](https://easyrag.foor.tech)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Zeddit
-Voice + AI collaborative editor. Talk, draft, and refine documents together in real time.
-
-`Next.js` `WebRTC` `Yjs` `Claude/GPT`
-
-[🌐 zeddit.foor.tech](https://zeddit.foor.tech)
-
-</td>
-<td width="50%" valign="top">
-
 ### 📰 WAIPress
 WordPress reimagined with AI & HeliosDB. **Three runtimes** — Nano (lightweight), Full (enterprise), JS (Next.js) — plus a unified marketing front.
 
@@ -258,7 +236,7 @@ WordPress reimagined with AI & HeliosDB. **Three runtimes** — Nano (lightweigh
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### ⏱️ TimeTracker Mobile
 A daily chronicle of hours. Chronograph-style timer with live notes, quick-break tiles (Coffee · Lunch · Commute · Call · …) that cut-and-switch in one tap, per-user ledger grouped by client → project, calendar view, multi-member workspaces. Editorial "Almanac" aesthetic.
@@ -268,18 +246,22 @@ A daily chronicle of hours. Chronograph-style timer with live notes, quick-break
 [🌐 ttm.danimoya.com](https://ttm.danimoya.com/)
 
 </td>
-<td width="50%" valign="top">
-
-### 🗂️ Kanttban
-A drafting studio for projects. **Kanban backlog meets Gantt timeline**, rendered with hairline rules and serif type instead of the usual SaaS chrome.
-
-`React` `TypeScript` `Vite` `Express` `Drizzle` `Postgres`
-
-[🌐 kanttban.danimoya.com](https://kanttban.danimoya.com/)
-
-</td>
 </tr>
 </table>
+
+---
+
+## 🧪 Personal Projects
+
+Personal, self-hosted projects for my own use and experimentation, with no SaaS plans or paid hosted offerings.
+
+| Project | Focus | Personal home |
+|---|---|---|
+| Zeddit | Voice and AI-assisted collaborative document editing | [zeddit.danimoya.com](https://zeddit.danimoya.com) |
+| CBEdit | Collaborative editing experiments; source project | Source only |
+| EasyRAG | Document ingestion, retrieval, and answer citations | [easyrag.danimoya.com](https://easyrag.danimoya.com) |
+| Kanttban | Personal Kanban backlog and Gantt planning | [kanttban.danimoya.com](https://kanttban.danimoya.com) |
+| Bizangent | Personal Discord bot and community tooling | [bizangent.danimoya.com](https://bizangent.danimoya.com) |
 
 ---
 
@@ -317,7 +299,7 @@ Web GUI for Claude Code, Claude-B, and any tmux-attached CLI. Live tmux pane str
 ## 🌐 The foor.network
 
 <details>
-<summary><b>What one operator can ship — 17 live domains, all on infra I built and run myself.</b></summary>
+<summary><b>FOOR properties running on infrastructure I built and operate.</b></summary>
 
 <br />
 
@@ -328,12 +310,10 @@ Web GUI for Claude Code, Claude-B, and any tmux-attached CLI. Live tmux pane str
 | [aiye.foor.tech](https://aiye.foor.tech) | Observability + telemetry collection backed by HeliosDB vector store |
 | [bigvoice.foor.tech](https://bigvoice.foor.tech) | One-way broadcast platform — presenter to audience, with AI summaries |
 | [cursly.foor.tech](https://cursly.foor.tech) | AI-powered URL shortener with custom analytics and link management |
-| [easyrag.foor.tech](https://easyrag.foor.tech) | Multi-tenant RAG SaaS — sub-2s queries on HeliosDB Nano |
 | [gdriveorg.foor.tech](https://gdriveorg.foor.tech) | Claude-powered Google Drive organizer — auto-categorizes your files |
 | [livewiki.foor.tech](https://livewiki.foor.tech) | AI-powered live wiki — modern MediaWiki replacement with auto-organize + RAG |
 | [markon.foor.tech](https://markon.foor.tech) | AI sales-development agent — finds leads, writes emails, books demos |
 | [waipress.foor.tech](https://waipress.foor.tech) | WordPress reimagined with AI & HeliosDB — Nano / Full / JS runtimes |
-| [zeddit.foor.tech](https://zeddit.foor.tech) | Voice + AI collaborative editor — talk, draft, refine in real time |
 
 **Brand TLDs** (the foor.* family)
 
