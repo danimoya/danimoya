@@ -31,6 +31,16 @@ I'm here on GitHub because I'm taking on a small number of new builds. Read on.
 
 ---
 
+## 🌿 GPC International — Web3 & Blockchain
+
+As CTO at **GPC International Holdings**, my technology focus spans:
+
+`Web3` `Blockchain` `Hyperledger Besu` `Polygon` `Crypto wallets` `Carbon credits` `Asset tokenization`
+
+[🌐 Public professional background](https://danimoya.com/about)
+
+---
+
 ## 🚀 Hire Me
 
 <table>
