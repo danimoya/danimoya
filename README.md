@@ -199,6 +199,18 @@ Backend-as-a-Service tier on top of Cloud. **Instant DB provisioning** + per-DB 
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔄 Any2Helios
+Migrate Oracle, MySQL, PostgreSQL, and SQL Server to HeliosDB or PostgreSQL. Interactive setup, parallel resumable loads, data validation, change data capture, and an MCP server.
+
+`Python` `Migration` `CDC` `MCP`
+
+[💻 GitHub](https://github.com/HeliosDatabase/Any2HeliosDB)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -209,6 +221,38 @@ Backend-as-a-Service tier on top of Cloud. **Instant DB provisioning** + per-DB 
 <tr>
 <td width="50%" valign="top">
 
+### 📚 LiveWiki
+AI-powered live wiki and modern MediaWiki replacement. Automatic content organization and RAG-powered knowledge retrieval.
+
+`AI` `Wiki` `RAG`
+
+[🌐 livewiki.foor.tech](https://livewiki.foor.tech)
+
+</td>
+<td width="50%" valign="top">
+
+### ⏱️ PTD
+**Plan Track Done** — work tracking for human and AI-agent teams. Shared tasks, Gantt planning, time tracking, reports, and agent token and API cost visibility.
+
+`Planning` `Time tracking` `HeliosDB-Nano` `MCP`
+
+[🌐 ptd.danimoya.com](https://ptd.danimoya.com) · [💻 GitHub](https://github.com/danimoya/ptd)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 MarkOn
+AI sales-development agent — finds leads, writes emails, and books demos.
+
+`AI` `Sales` `Automation`
+
+[🌐 markon.foor.tech](https://markon.foor.tech)
+
+</td>
+<td width="50%" valign="top">
+
 ### 💼 AutoTax
 AI-powered Swiss tax automation. 4 apps, 10 microservices, **6 specialized Claude agents**, blockchain audit trail.
 
@@ -217,7 +261,9 @@ AI-powered Swiss tax automation. 4 apps, 10 microservices, **6 specialized Claud
 [🌐 autotax.danimoya.com](https://autotax.danimoya.com/login)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 📰 WAIPress
 WordPress reimagined with AI & HeliosDB. **Three runtimes** — Nano (lightweight), Full (enterprise), JS (Next.js) — plus a unified marketing front.
@@ -232,25 +278,6 @@ WordPress reimagined with AI & HeliosDB. **Three runtimes** — Nano (lightweigh
 
 ---
 
-## 🕒 Time Tracking & Project Management
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-### ⏱️ TimeTracker Mobile
-A daily chronicle of hours. Chronograph-style timer with live notes, quick-break tiles (Coffee · Lunch · Commute · Call · …) that cut-and-switch in one tap, per-user ledger grouped by client → project, calendar view, multi-member workspaces. Editorial "Almanac" aesthetic.
-
-`React` `Vite` `TypeScript` `Express` `Postgres`
-
-[🌐 ttm.danimoya.com](https://ttm.danimoya.com/)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🧪 Personal Projects
 
 Personal, self-hosted projects for my own use and experimentation, with no SaaS plans or paid hosted offerings.
@@ -258,7 +285,8 @@ Personal, self-hosted projects for my own use and experimentation, with no SaaS 
 | Project | Focus | Personal home |
 |---|---|---|
 | Zeddit | Voice and AI-assisted collaborative document editing | [zeddit.danimoya.com](https://zeddit.danimoya.com) |
-| CBEdit | Collaborative editing experiments; source project | Source only |
+| Omarchy tools | Google Drive integration, animated ASCII screensavers, and monitor mirroring | [tools.danimoya.com](https://tools.danimoya.com) · [Google Drive](https://github.com/danimoya/omarchy-google-drive) · [Screensavers](https://github.com/danimoya/omarchy-animated-screensaver) · [Monitor mirror](https://github.com/danimoya/omarchy-monitor-mirror) |
+| AIVIM-Editor | Vim-style terminal editor with contextual AI, live code generation, and reviewed multi-file changes | [GitHub](https://github.com/danimoya/AIVim-Editor) |
 | EasyRAG | Document ingestion, retrieval, and answer citations | [easyrag.danimoya.com](https://easyrag.danimoya.com) |
 | Kanttban | Personal Kanban backlog and Gantt planning | [kanttban.danimoya.com](https://kanttban.danimoya.com) |
 | Bizangent | Personal Discord bot and community tooling | [bizangent.danimoya.com](https://bizangent.danimoya.com) |
